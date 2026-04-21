@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "GoVigi Produce Ordering",
+    "slug": "govigi-produce-ordering",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
