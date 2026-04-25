@@ -1,6 +1,6 @@
 # GoVigi Produce Ordering App
 
-A complete internship assessment submission for the GoVigi Full Stack Developer Intern task. This repository contains:
+This repository contains:
 
 - `backend` — Node.js + Express + MongoDB API
 - `web` — Next.js retailer portal
